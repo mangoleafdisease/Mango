@@ -22,6 +22,8 @@ const ColorButton = withStyles((theme) => ({
     backgroundColor: common.white,
     '&:hover': {
       backgroundColor: '#945049',
+      backgroundColor: '#945049',
+      backgroundColor: '#945049',
       transform: 'translateY(-2px)', // Adjust the value as needed
       transition: 'transform 0.2s ease', // Adjust the transition duration as needed
     },
